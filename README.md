@@ -1,14 +1,8 @@
-# PHP CRUD Project
+# PHP Project
 
-This project is a simple CRUD application using PHP & MySQL.
+This is my Task-1 project.
 
-## Features
-- Add Post
-- View Posts
-- Edit Post
-- Delete Post
-
-## How to Run
+## Setup
 - Install XAMPP
-- Start Apache & MySQL
-- Open localhost/php-crud-project
+- Run Apache & MySQL
+- Open localhost
